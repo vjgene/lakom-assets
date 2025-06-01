@@ -818,4 +818,13 @@ p {
 		display: none;
 	}
 }
-/*Food header Button settings */
+ul.bullet-list {
+  padding-left: 2rem; 
+}
+
+@media (max-width: 600px) {
+  ul.bullet-list {
+    padding-left: 1rem; 
+  }
+}
+
